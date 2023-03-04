@@ -1,0 +1,15 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a11833;
+}
+.egg{
+    height: 200px;
+    width: 150px;
+    background: linear-gradient(to top, #ffce81 20px, #ffce81 150px);
+    border-radius: 50%/60% 60% 40% 40%;
+    box-shadow: 12px 10px 18px rgba(0,0,0, .36), inset 15px 15px 40px rgba(255,255,255, .33), inset -10px -12px 40px rgba(0,0,0, .8);
+}
